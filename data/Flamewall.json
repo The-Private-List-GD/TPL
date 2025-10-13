@@ -1,12 +1,24 @@
 {
-    "id": 126242564,
+    "id": 57436521,
     "name": "Flamewall",
     "author": "Narwall",
-    "creators": ["MrZen", "(RpgRaketti"],
-    "verifier": "Cuatrocientos"
+    "creators": ["MrZen"],
+    "verifier": "Cuatrocientos",
     "verification": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
-    "percentToQualify": "43",
-    "password": "No Password Required",
-    "records":
-    
+    "percentToQualify": "53",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "...",
+            "link": "..." ,
+            "percent": 0,
+            "hz": 240
+        }
+    ]
 }
