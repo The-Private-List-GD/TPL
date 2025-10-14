@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 119550490,
+    "name": "Amethyst",
+    "author": "iMist",
+    "creators": ["Solo created by iMist"],
+    "verifier": "WPopoff",
+    "verification": "https://www.youtube.com/watch?v=bcxqTbxhOe0",
+    "percentToQualify": "56",
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=x3Sof3yGJ5Y",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Rico",
+            "link": "Video Privated",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
