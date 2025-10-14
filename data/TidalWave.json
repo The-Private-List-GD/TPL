@@ -13,13 +13,13 @@
                 "user": "TrickGMD",
                 "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
                 "percent": 100,
-                "hz": 240
+                "hz": 240,
             },
             {
                 "user": "WPopoff",
                 "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
                 "percent": 100,
                 "hz": 240
-            }
+            },
         ]
     }
