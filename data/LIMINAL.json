@@ -3,16 +3,16 @@
     "name": "L I M N A L ",
     "author": "Sam",
     "creators": ["Sam", "gabac17", "More"],
-    "verifier": "",
+    "verifier": "Sam",
     "Record": "https://www.youtube.com/watch?v=RA-iXKDus40",
-    "RunToQualify": "62-100",
+    "RunToQualify": 12,
     "password": "Not Copyable",
     "records": [
         {
             "user": "PartyIsland69",
             "link": "https://www.youtube.com/watch?v=RA-iXKDus40",
             "percent": "62-100",
-            "hz": "144+CBF"
+            "hz": "144 + CBF"
         }
     ]
 }
