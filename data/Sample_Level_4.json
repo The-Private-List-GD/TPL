@@ -1,0 +1,25 @@
+{
+    {
+        "id": 57436521,
+        "name": "Tidal Wave",
+        "author": "OniLinkGD",
+        "creators": [ "OniLinkGD" ],
+        "verifier": "Zoink",
+        "verification": "https://www.youtube.com/watch?v=9fsZ014qB3s&pp=0gcJCfwAo7VqN5tD",
+        "percentToQualify": "50",
+        "password": "Free to Copy",
+        "records": [
+            {
+                "user": "TrickGMD",
+                "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
+                "percent": 100,
+                "hz": 240
+            },
+            {
+                "user": "WPopoff",
+                "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
+                "percent": 100,
+                "hz": 240
+            }
+        ]
+    }
