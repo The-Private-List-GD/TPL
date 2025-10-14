@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "CobaltHQ",
+            "link": "https://www.youtube.com/watch?v=LiK8oXcF0mE",
+            "percent": 100,
+            "hz": 144
+        },
     ]
 }
