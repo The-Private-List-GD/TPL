@@ -8,11 +8,23 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
+          {
             "user": "Andrey Kapninskii",
             "link": "https://www.youtube.com/watch?v=BL7h6xAjq-E",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=HqoF9zgCAlI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=gxp3BclgjBc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
