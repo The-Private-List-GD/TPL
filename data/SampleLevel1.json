@@ -1,18 +1,35 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Abyss of Darkness",
+    "author": "Exen",
+    "creators": ["Zml and More"],
+    "verifier": "[TCD] Cursed",
+    "verification": "https://www.youtube.com/watch?v=ejJkpqcMMCY&t=131s",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Free to Copy!",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": " [67] Zoink",
+            "link": "https://www.youtube.com/watch?v=LtAN49zhoPQ",
             "percent": 100,
-            "hz": 360
+            "hz": 240
+        }, 
+        {
+            "user": " [TCD] Doggie",
+            "link": "https://www.youtube.com/watch?v=myDuegpfTTk",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": " [TCD] Doggie",
+            "link": "https://www.youtube.com/watch?v=myDuegpfTTk",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
+
+        
+    ]
+}
+
